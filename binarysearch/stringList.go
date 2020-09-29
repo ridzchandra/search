@@ -1,4 +1,4 @@
-package structs
+package binarysearch
 
 type stringList []string
 
