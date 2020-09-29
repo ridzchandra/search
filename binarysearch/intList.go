@@ -2,7 +2,7 @@ package binarysearch
 
 type intList []int
 
-//NewIntList ... A counstructor for intList type
+//NewIntList ... A counstructor for intList type.
 func NewIntList(list ...int) intList {
 	var l intList = list
 	return l
